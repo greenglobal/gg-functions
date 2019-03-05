@@ -1,0 +1,24 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.wrap-greenglobal form >table{
+  width: 100%;
+  margin: 0px;
+  
+}
+.wrap-greenglobal form >table table{
+  border: 1px solid #dcdcdc;
+  margin: 0px;
+}
+.wrap-greenglobal form >table table tr{background-color: #fff;}
+.wrap-greenglobal form >table table tr:nth-child(odd){
+  background-color: #efefef;
+}
+.wrap-greenglobal .form-table th{padding-left: 10px;}
+.wrap-greenglobal table h2{
+  background: #02a959;
+  padding: 10px;
+  color: #fff;
+  margin: 0px;
+}
